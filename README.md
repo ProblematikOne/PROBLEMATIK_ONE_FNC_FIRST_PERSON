@@ -22,6 +22,12 @@ Download:
 
 `PROBLEMATIK_ONE_FP_3.2.zip`
 
+## ☕ SUPPORT
+
+**This mod is FREE.** If you feel the urge to donate, I won’t dodge it. 🥊😂
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/problematikone)
+
 ## What You Need
 
 Before installing, make sure you have:
