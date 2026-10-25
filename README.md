@@ -10,17 +10,14 @@
  # **CONTROLLER:**
 
 ## **SELECT:** First-person ON/OFF
-
 ## **R3:** WIPE BLOOD Right Eye
 ## **L3:** WIPE BLOOD Left Eye
 
 
 
-- **STATUS:** Work in progress. See the Known Bugs section below.
 
-Your vision changes as you take damage. Your eyes swell shut, blood gets in your eyes when you are cut, and you can wipe it away with your gloves.
 
----
+
 
 ## ⬇️ DOWNLOAD
 
@@ -42,7 +39,7 @@ To install the update, open RPCS3 and select **File → Install Packages/Raps/Ed
 
 ---
 
-## 🛠️ INSTALLATION — 5 EASY STEPS
+## 🛠️ INSTALLATION — 5 EASY STEPS IF YOU ALREADY KNOW HOW INSTALL PATCHES IN RPCS3 THEN THIS IS THE SAME PROCESS , ONLY SAVE `YSDV_FACE`FOLDER INSIDE `dev_hdd0`
 
 ### Step 1 — Extract the ZIP
 
