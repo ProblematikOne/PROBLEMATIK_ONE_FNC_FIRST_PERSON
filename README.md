@@ -1,14 +1,21 @@
 # PROBLEMATIK_ONE_FP
-## FIGHT NIGHT CHAMPION — FIRST-PERSON MOD-Currently only works with **RPCS3 on PC**
+## FIGHT NIGHT CHAMPION — FIRST-PERSON MOD AND PHOTO UPLOAD "GAME FACE"-Currently only works with **RPCS3 on PC**
+<img width="1994" height="789" alt="Fight Night Champion_ First-Person Mod LAST" src="https://github.com/user-attachments/assets/ae7f39e1-2813-4782-98f9-0b29c28b23c0" />
 
-# 🎮 IMPORTANT — READ THIS FIRST!
+
+# 🎮 **PLAY FIGHT NIGHT CHAMPION IN FIRST PERSON!** 
+ ## **IMPORTANT — READ THIS FIRST! “This is a fan-made patch for Fight Night Champion. You must own a legitimate copy of the game and dump it yourself. This repository does not contain any copyrighted game files.”**
+
  **YOU MUST OWN THE GAME:** This mod requires your own copy of *Fight Night Champion*, USA version **BLUS30608**, with update **1.02** installed.
+ # **CONTROLLER:**
 
-**PLAY FIGHT NIGHT CHAMPION IN FIRST PERSON!**
+## **SELECT:** First-person ON/OFF
 
-- **CONTROLLER:** Press **SELECT** to go in to first-person mode.
-- **WIPE BLOOD:** Press **R3** to wipe your right eye with your left glove. Press **L3** to wipe your left eye with your right glove.
-- **COMING SOON:** A version for jailbroken PS3 consoles.
+## **R3:** WIPE BLOOD Right Eye
+## **L3:** WIPE BLOOD Left Eye
+
+
+
 - **STATUS:** Work in progress. See the Known Bugs section below.
 
 Your vision changes as you take damage. Your eyes swell shut, blood gets in your eyes when you are cut, and you can wipe it away with your gloves.
@@ -62,6 +69,7 @@ You will get a folder named `PROBLEMATIK_ONE_FP`.
 5. Click **Save**.
 
 ### Step 4 — Optional: Enable Photo Game Face
+YOU CAN 
 
 Copy the `YSDV_FACE` folder from the extracted ZIP into your RPCS3 folder, inside `dev_hdd0`.
 
