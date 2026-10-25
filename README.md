@@ -67,6 +67,31 @@ The folder structure should look like this:
 
 `RPCS3\dev_hdd0\YSDV_FACE\boxer.jpg`
 
+**Prepare your photos**
+SAVE PHOTO NAMES LIKE THIS!
+NAME.jpg        → Front photo, looking straight at the camera
+NAME_side.jpg   → Right-side profile photo (optional)
+**Example: John.jpg and John_side.jpg. If you don’t include a side photo, the front photo is used instead.**
+
+Every photo must be:
+
+512 × 512 pixels (you can try 1024 x1024)
+
+Saved as .JPG — not .JPEG, .PNG, or another format.( use SAVE A COPY not  EXPORT)
+SELECT JPEG( *,JPG*JPEG,*JPE) AND UNCHECK PROGRESSIVE  USE BASELINE STANDARD
+
+
+An easy alternative is Microsoft Paint: resize the image to 512 × 512 pixels, then choose File → Save as → JPEG picture.
+
+Why this matters:
+
+Progressive JPEGs won’t appear correctly in the game’s photo list.
+
+Files ending in .jpeg may show as a black box.
+
+Larger images use more memory. Multiple 1024 × 1024 photos can crash the game when the list opens.
+
+
 A sample AI-generated face is included, with front and side-profile photos.
 
 ### Step 5 — Start the Game
