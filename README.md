@@ -79,17 +79,11 @@ Every photo must be:
 
 Saved as .JPG — not .JPEG, .PNG, or another format.( use SAVE A COPY not  EXPORT)
 SELECT JPEG( *,JPG*JPEG,*JPE) AND UNCHECK PROGRESSIVE  USE BASELINE STANDARD
-# LOOK AT EXAMPLES BELOW!#
-
-
-
+# LOOK AT EXAMPLES BELOW AS HOW TO SAVE THEM!
 
 <img width="247" height="609" alt="DZHmB52dgR" src="https://github.com/user-attachments/assets/36ea701b-bbc4-421d-a677-f62c2559f58f" />
 <img width="969" height="345" alt="p8CIsKuz77" src="https://github.com/user-attachments/assets/4aa46562-d0c4-40b9-9f6f-59a3a734cec0" />
 <img width="336" height="312" alt="Photoshop_6ktNWqGNUQ" src="https://github.com/user-attachments/assets/1203b7b2-740e-464c-be4d-73711eea3997" />
-
-
-
 
 An easy alternative is Microsoft Paint: resize the image to 512 × 512 pixels, then choose File → Save as → JPEG picture.
 
@@ -100,7 +94,6 @@ Progressive JPEGs won’t appear correctly in the game’s photo list.
 Files ending in .jpeg may show as a black box.
 
 Larger images use more memory. Multiple 1024 × 1024 photos can crash the game when the list opens.
-
 
 A sample AI-generated face is included, with front and side-profile photos.
 
