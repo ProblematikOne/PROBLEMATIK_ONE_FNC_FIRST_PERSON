@@ -75,11 +75,11 @@ NAME_side.jpg   → Right-side profile photo (optional)
 
 Every photo must be:
 
-512 × 512 pixels (you can try 1024 x1024)
+512 × 512 pixels (you can try 1024 x1024) MAY BREAK IT BUT TRY ANYWAY!
 
 Saved as .JPG — not .JPEG, .PNG, or another format.( use SAVE A COPY not  EXPORT)
 SELECT JPEG( *,JPG*JPEG,*JPE) AND UNCHECK PROGRESSIVE  USE BASELINE STANDARD
-
+# LOOK AT EXAMPLES BELOW!#
 
 An easy alternative is Microsoft Paint: resize the image to 512 × 512 pixels, then choose File → Save as → JPEG picture.
 
