@@ -26,7 +26,7 @@ Download:
 Before installing, make sure you have:
 
 1. **RPCS3** — the PS3 emulator for PC.
-2. **Fight Night Champion** — your own copy of the USA version, `BLUS30608`.
+2. **Fight Night Champion** — your own**LEGAL** copy of the USA version, `BLUS30608`.
 3. **Game Update 1.02** — installed in RPCS3. Your game must show version `01.02` in the game list.
 
 To install the update, open RPCS3 and select **File → Install Packages/Raps/Edats**, then choose your update 1.02 file.
