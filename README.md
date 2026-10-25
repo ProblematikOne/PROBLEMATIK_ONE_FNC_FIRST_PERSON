@@ -6,7 +6,7 @@
 # 🎮 **PLAY FIGHT NIGHT CHAMPION IN FIRST PERSON!** 
  ## **IMPORTANT — READ THIS FIRST! “This is a fan-made patch for Fight Night Champion. You must own a legitimate copy of the game and dump it yourself. This repository does not contain any copyrighted game files.”**
 
- **YOU MUST OWN THE GAME:** This mod requires your own copy of *Fight Night Champion*, USA version **BLUS30608**, with update **1.02** installed.
+ **YOU MUST OWN THE GAME:** This mod requires your own **LEGAL** copy of *Fight Night Champion*, USA version **BLUS30608**, with update **1.02** installed.
  # **CONTROLLER:**
 
 ## **SELECT:** First-person ON/OFF
