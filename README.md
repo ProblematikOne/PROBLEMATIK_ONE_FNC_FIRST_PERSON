@@ -22,11 +22,13 @@ Download:
 
 `PROBLEMATIK_ONE_FP_3.2.zip`
 
-## ☕ SUPPORT
+## 🥊 Support the Mod
 
-**This mod is FREE.** If you feel the urge to donate, I won’t dodge it. 🥊😂
+If you feel the urge to donate, I won’t dodge it. 😂
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/problematikone)
+[Support me on Ko-fi](https://ko-fi.com/problematikone)
+
+Thanks for supporting the mod!
 
 ## What You Need
 
