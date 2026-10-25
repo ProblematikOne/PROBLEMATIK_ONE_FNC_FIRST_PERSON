@@ -1,6 +1,7 @@
 # PROBLEMATIK_ONE_FP
 ## FIGHT NIGHT CHAMPION — FIRST-PERSON MOD AND PHOTO UPLOAD "GAME FACE"-Currently only works with **RPCS3 on PC**
-<img width="1994" height="789" alt="Fight Night Champion_ First-Person Mod LAST" src="https://github.com/user-attachments/assets/ae7f39e1-2813-4782-98f9-0b29c28b23c0" />
+<img width="1993" height="789" alt="FIRT PERSON MOD 5 LAST" src="https://github.com/user-attachments/assets/1ffc86d5-decd-42eb-a1f8-0cd966e32d56" />
+
 
 
 # 🎮 **PLAY FIGHT NIGHT CHAMPION IN FIRST PERSON!** 
