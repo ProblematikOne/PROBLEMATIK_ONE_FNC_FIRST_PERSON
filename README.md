@@ -1,115 +1,219 @@
 # PROBLEMATIK_ONE_FP
+## FIGHT NIGHT CHAMPION — FIRST-PERSON MOD-Currently only works with **RPCS3 on PC**
 
-### Play Fight Night Champion in **first person**: see the fight through your boxer's eyes.
+# 🎮 IMPORTANT — READ THIS FIRST!
+ **YOU MUST OWN THE GAME:** This mod requires your own copy of *Fight Night Champion*, USA version **BLUS30608**, with update **1.02** installed.
 
-Your eye swells shut when you get hit, blood runs into your eyes when you are cut, and you wipe it away with your glove.
-Works on the **RPCS3** PC emulator. **Work in progress** - see *Known bugs* below.
+**PLAY FIGHT NIGHT CHAMPION IN FIRST PERSON!**
 
----
+- **CONTROLLER:** Press **SELECT** to go in to first-person mode.
+- **WIPE BLOOD:** Press **R3** to wipe your right eye with your left glove. Press **L3** to wipe your left eye with your right glove.
+- **COMING SOON:** A version for jailbroken PS3 consoles.
+- **STATUS:** Work in progress. See the Known Bugs section below.
 
-## What you need
-
-- **RPCS3** (the PS3 emulator for PC).
-- **Fight Night Champion**, USA version **BLUS30608** (your own copy), installed in RPCS3.
-- The game's **update 1.02** installed in RPCS3 (RPCS3 > *File* > *Install Packages/Raps/Edats* > choose your 1.02
-  update file). The game list shows the version: it must say **01.02**.
-
-## Download
-
-Go to **[Releases](../../releases)** (right side of this page) and download **`PROBLEMATIK_ONE_FP_3.2.zip`**.
+Your vision changes as you take damage. Your eyes swell shut, blood gets in your eyes when you are cut, and you can wipe it away with your gloves.
 
 ---
 
-## Install - 5 easy steps
+## ⬇️ DOWNLOAD
 
-**1. Unzip** `PROBLEMATIK_ONE_FP_3.2.zip` anywhere (for example your Desktop). You get a folder `PROBLEMATIK_ONE_FP`.
+Go to **[Releases](../../releases)** on the right side of this GitHub page.
 
-**2. Add the patch to RPCS3**
-- Open RPCS3.
-- At the top click **Manage** > **Game Patches**.
-- Click **Import** (bottom of the window) and choose `PROBLEMATIK_ONE_FP_patch.yml` from the unzipped folder.
-- In the list find **Fight Night Champion** > **PROBLEMATIK_ONE_FP** and **tick the box**.
-- Click **Save** and close the window.
+Download:
 
-**3. One graphics setting**
-- In the RPCS3 game list **right-click Fight Night Champion** > **Create Custom Configuration**
-  (or *Change Custom Configuration*).
-- Open the **GPU** tab and **tick "Write Color Buffers"**. Click **Save**.
+`PROBLEMATIK_ONE_FP_3.2.zip`
 
-**4. Photo face (optional, but try it)**
-- Copy the folder **`YSDV_FACE`** from the unzipped folder into your RPCS3 folder, inside **`dev_hdd0`**.
-  It must end up like this: `RPCS3\dev_hdd0\YSDV_FACE\boxer.jpg`
-- A sample face is already inside (AI-generated, front + side photo).
+## What You Need
 
-**5. Start the game**
-- The **first start takes a bit longer** (up to about a minute). The patch builds its files once from your own game
-  files (needs about 420 MB free on the drive where RPCS3 is). After that the game starts normally.
+Before installing, make sure you have:
 
-That's it. Nothing in your game folder is replaced or deleted.
+1. **RPCS3** — the PS3 emulator for PC.
+2. **Fight Night Champion** — your own copy of the USA version, `BLUS30608`.
+3. **Game Update 1.02** — installed in RPCS3. Your game must show version `01.02` in the game list.
+
+To install the update, open RPCS3 and select **File → Install Packages/Raps/Edats**, then choose your update 1.02 file.
 
 ---
 
-## How to use it
+## 🛠️ INSTALLATION — 5 EASY STEPS
 
-| What | How |
+### Step 1 — Extract the ZIP
+
+Extract `PROBLEMATIK_ONE_FP_3.2.zip` anywhere on your PC, such as your Desktop.
+
+You will get a folder named `PROBLEMATIK_ONE_FP`.
+
+### Step 2 — Import and Enable the Patch
+
+1. Open RPCS3.
+2. Click **Manage → Game Patches**.
+3. Click **Import** at the bottom of the window.
+4. Select `PROBLEMATIK_ONE_FP_patch.yml` from the extracted folder.
+5. Find **Fight Night Champion → PROBLEMATIK_ONE_FP** in the list.
+6. Tick the checkbox to enable the patch.
+7. Click **Save** and close the window.
+
+### Step 3 — Enable One Graphics Setting
+
+1. Find Fight Night Champion in the RPCS3 game list.
+2. Right-click the game and select **Create Custom Configuration** or **Change Custom Configuration**.
+3. Open the **GPU** tab.
+4. Enable **Write Color Buffers**.
+5. Click **Save**.
+
+### Step 4 — Optional: Enable Photo Game Face
+
+Copy the `YSDV_FACE` folder from the extracted ZIP into your RPCS3 folder, inside `dev_hdd0`.
+
+The folder structure should look like this:
+
+`RPCS3\dev_hdd0\YSDV_FACE\boxer.jpg`
+
+A sample AI-generated face is included, with front and side-profile photos.
+
+### Step 5 — Start the Game
+
+Launch Fight Night Champion.
+
+**Important:** The first startup can take up to about one minute. The patch creates its required files using your own game files and needs approximately **420 MB of free disk space** on the drive where RPCS3 is installed.
+
+After the first startup, the game should launch normally.
+
+**The patch does not replace or delete files in your original game folder.**
+
+---
+
+## 🎮 HOW TO USE THE MOD
+
+| Feature | Controller / Instructions |
 |---|---|
-| First person on / off | Press **SELECT** during a fight. |
-| Wipe blood from your eyes | **R3** = left glove wipes your right eye, **L3** = right glove wipes your left eye. |
-| Photo face | Main menu > **Create a Boxer** > **Photo Game Face** > pick the photo > place the markers. |
-| More damage | Game **Settings** > **Physical Damage** to **10**. |
-
-## Features (version 3.2)
-
-- **First-person camera** from your boxer's eyes.
-- **Swelling vision:** the swollen eye darkens from the edges inward as the damage grows, and clears again when it
-  heals (the corner heals it between rounds). It shows the real damage %, on the exact eye (brow or cheek, left or right).
-- **Blood:** blood in your eyes when you are cut, and blood splats on the screen when you get hit while cut
-  (only for **your** cuts).
-- **Hit flashes, body-shot shadow, stun effect.**
-- Effects also on the **knockdown cameras**; replays stay clean.
-- **Glove wipe** with the sticks.
-- **Photo face** without EA servers (they are offline): use your own photos.
-- **Swelling builds a little faster (x1.1)** for both boxers. Cuts, healing and stamina are the original game.
-
-## Your own photo face
-
-- Put 2 photos in `RPCS3\dev_hdd0\YSDV_FACE\` with the same name: **`NAME.jpg`** (front) and **`NAME_side.jpg`**
-  (side profile). Example: `carlos.jpg` + `carlos_side.jpg`.
-- Size **512 x 512**. Easiest way: open the photo in **Paint** > *Resize* (pixels 512 x 512) > *Save as* > **JPEG**.
-- Use **.jpg**, not .jpeg or .png. Max 4 faces in the folder (move older ones into a subfolder).
-- More details in `YSDV_FACE\README.txt`.
-
-## Camera settings (optional)
-
-Copy `USRDIR\fnc_fp_settings.toml` from the zip into your game's `PS3_GAME\USRDIR` folder and open it with Notepad.
-Every setting is explained inside (field of view, eye position, smoothing...). Save, then press SELECT twice in a
-fight to use the new values.
+| Turn first-person mode ON/OFF | Press **SELECT** during a fight |
+| Wipe blood from your right eye | Press **R3** |
+| Wipe blood from your left eye | Press **L3** |
+| Use your own boxer face | Main Menu → Create a Boxer → Photo Game Face |
+| Increase physical damage | Game Settings → Physical Damage → Set to **10** |
 
 ---
 
-## Known bugs (work in progress)
+## 🔥 FEATURES — VERSION 3.2
 
-- **Opponent without a head / you see from inside your own head.** Can happen after a knockdown. The patch fixes it by
-  itself most of the time. If you see it: **press SELECT twice** (off, on).
-- **The boxer model / trunks can shake now and then.** Being looked at.
-- **RPCS3 only** for now.
+### First-Person Camera
+Fight from your boxer's point of view, looking through your own eyes.
 
-## Problems? Quick fixes
+### Realistic Eye Swelling
+Your vision gets darker around the edges of the damaged eye as swelling increases. It clears again as the swelling heals.
 
-| Problem | Fix |
+- Swelling matches the game's actual damage percentage.
+- Effects appear on the correct eye and the correct area, such as the brow or cheek.
+- Swelling can heal between rounds when your boxer is in the corner.
+
+### Blood in Your Vision
+When your boxer gets cut, blood can appear in your vision. Getting hit while cut can also produce blood splashes on the screen.
+
+These blood effects are based on **your boxer's cuts**, not the opponent's.
+
+### Additional Damage Effects
+- Screen flashes when you get hit.
+- Shadows from body shots.
+- Stun effects.
+- Damage effects during knockdown cameras.
+- Clean replays without these screen effects.
+
+### Glove Wiping
+Use the controller sticks to wipe blood away from your eyes.
+
+### Photo Game Face Without EA Servers
+EA's online servers are offline, but you can still use your own photos with the included photo-face system.
+
+### Slightly Faster Swelling
+Eye swelling builds approximately **10% faster (×1.1)** for both boxers.
+
+Cuts, healing, and stamina otherwise use the original game's behavior.
+
+---
+
+## 🧑 USE YOUR OWN FACE
+
+You can use your own photos to create a boxer face.
+
+### Required Files
+
+Place two photos in:
+
+`RPCS3\dev_hdd0\YSDV_FACE\`
+
+Both files must use the same name:
+
+- `NAME.jpg` — front-facing photo.
+- `NAME_side.jpg` — side-profile photo.
+
+Example:
+
+- `carlos.jpg`
+- `carlos_side.jpg`
+
+### Photo Requirements
+
+- **Size:** 512 × 512 pixels.
+- **Format:** `.jpg` only. Do not use `.jpeg` or `.png`.
+- **Maximum:** 4 faces in the folder.
+
+To resize a photo, open it in Windows Paint, select **Resize**, choose **Pixels**, set the width and height to 512, and save it as a JPEG.
+
+Move older faces into a separate subfolder if you need to make room for new ones.
+
+For more information, read `YSDV_FACE\README.txt`.
+
+---
+
+## 🎥 OPTIONAL: CAMERA SETTINGS
+
+You can adjust the first-person camera to better fit your preferences.
+
+1. Copy `USRDIR\fnc_fp_settings.toml` from the downloaded ZIP.
+2. Place it inside your game's `PS3_GAME\USRDIR\` folder.
+3. Open the file using Notepad.
+4. Adjust the settings explained inside the file, including field of view, eye position, and camera smoothing.
+5. Save the file.
+6. During a fight, press **SELECT twice** to turn first-person mode off and back on and apply the new settings.
+
+---
+
+## ⚠️ KNOWN BUGS — WORK IN PROGRESS
+
+### Opponent Has No Head / Camera Inside Your Head
+This can happen after a knockdown. The patch usually corrects itself.
+
+**Quick fix:** Press **SELECT twice** to turn first-person mode off and back on.
+
+### Boxer Model or Trunks May Shake
+The boxer model or trunks may occasionally shake during gameplay.
+
+### Platform Limitations
+Currently, this version is for **RPCS3 on PC only**.
+
+---
+
+## 🔧 TROUBLESHOOTING
+
+| Problem | Solution |
 |---|---|
-| No first person / no effects | Check the patch is **ticked** (step 2) and the game has **update 1.02**. |
-| First start very slow | Normal once (building files). Make sure there is ~420 MB free. |
-| Effects missing or black screen edges look wrong | Tick **Write Color Buffers** (step 3). |
-| Photo shows a black box | Use **.jpg**, 512 x 512, saved with Paint. |
-| Something broke | Untick the patch in Manage > Game Patches - the game is back to normal. |
-
-## Coming next
-
-- Fix for the model shake.
-- **Jailbroken PS3 version.**
-- Optional **damage model** with more swelling and cuts for players who want it.
+| First-person mode or effects do not work | Make sure the patch is enabled and game update **1.02** is installed. |
+| First startup takes a long time | This is normal. The patch builds its files during the first startup. Allow approximately **420 MB** of free disk space. |
+| Effects are missing or the screen edges look wrong | Enable **Write Color Buffers** in the GPU settings. |
+| Photo face appears as a black box | Use a **512 × 512 `.jpg`** file saved with Paint. |
+| Something goes wrong | Open **Manage → Game Patches** and untick the patch to disable it. |
 
 ---
 
-*Requires your own legal copy of the game. This page contains no game code and no game files.*
+More updates and improvements may follow as development continues.
+
+---
+
+## 📜 DISCLAIMER
+
+This project requires your own legal copy of *Fight Night Champion*.
+
+**This repository does not include the original game, game code, or game files.** You must obtain the game and its update separately.
+
+*PROBLEMATIK_ONE_FP is a work in progress. Features, compatibility, and behavior may change as development continues.*
