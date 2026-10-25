@@ -13,12 +13,6 @@
 ## **R3:** WIPE BLOOD Right Eye
 ## **L3:** WIPE BLOOD Left Eye
 
-
-
-
-
-
-
 ## ⬇️ DOWNLOAD
 
 Go to **[Releases](../../releases)** on the right side of this GitHub page.
@@ -39,7 +33,7 @@ To install the update, open RPCS3 and select **File → Install Packages/Raps/Ed
 
 ---
 
-## 🛠️ INSTALLATION — 5 EASY STEPS IF YOU ALREADY KNOW HOW INSTALL PATCHES IN RPCS3 THEN THIS IS THE SAME PROCESS , ONLY SAVE `YSDV_FACE`FOLDER INSIDE `dev_hdd0`
+## 🛠️ INSTALLATION — 5 EASY STEPS IF YOU ALREADY KNOW HOW INSTALL PATCHES IN RPCS3 THEN THIS IS THE SAME PROCESS , ONLY SAVE `YSDV_FACE`FOLDER INSIDE `dev_hdd0` (GO TO STEP 4 FOR GAME FACE PHOTO)
 
 ### Step 1 — Extract the ZIP
 
@@ -65,8 +59,7 @@ You will get a folder named `PROBLEMATIK_ONE_FP`.
 4. Enable **Write Color Buffers**.
 5. Click **Save**.
 
-### Step 4 — Optional: Enable Photo Game Face
-YOU CAN 
+### Step 4 : Enable Photo Game Face 
 
 Copy the `YSDV_FACE` folder from the extracted ZIP into your RPCS3 folder, inside `dev_hdd0`.
 
