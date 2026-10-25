@@ -14,21 +14,15 @@
 ## **R3:** WIPE BLOOD Right Eye
 ## **L3:** WIPE BLOOD Left Eye
 
-## ⬇️ DOWNLOAD
+## ⬇️ DOWNLOAD (**THIS MOD IS FREE** BUT if you would like to Support the Mod and you feel the urge to donate, I won’t dodge it. 😂
+[Support me on Ko-fi](https://ko-fi.com/problematikone)
+Thanks for supporting the mod!)
 
 Go to **[Releases](../../releases)** on the right side of this GitHub page.
 
 Download:
 
 `PROBLEMATIK_ONE_FP_3.2.zip`
-
-## 🥊 Support the Mod
-
-If you feel the urge to donate, I won’t dodge it. 😂
-
-[Support me on Ko-fi](https://ko-fi.com/problematikone)
-
-Thanks for supporting the mod!
 
 ## What You Need
 
