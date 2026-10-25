@@ -122,6 +122,7 @@ These blood effects are based on **your boxer's cuts**, not the opponent's.
 
 ### Additional Damage Effects
 - Screen flashes when you get hit.
+- Random black spots now and then when you get hit in the head, fading out slowly.
 - Shadows from body shots.
 - Stun effects.
 - Damage effects during knockdown cameras.
@@ -171,19 +172,6 @@ To resize a photo, open it in Windows Paint, select **Resize**, choose **Pixels*
 Move older faces into a separate subfolder if you need to make room for new ones.
 
 For more information, read `YSDV_FACE\README.txt`.
-
----
-
-## 🎥 OPTIONAL: CAMERA SETTINGS
-
-You can adjust the first-person camera to better fit your preferences.
-
-1. Copy `USRDIR\fnc_fp_settings.toml` from the downloaded ZIP.
-2. Place it inside your game's `PS3_GAME\USRDIR\` folder.
-3. Open the file using Notepad.
-4. Adjust the settings explained inside the file, including field of view, eye position, and camera smoothing.
-5. Save the file.
-6. During a fight, press **SELECT twice** to turn first-person mode off and back on and apply the new settings.
 
 ---
 
