@@ -124,80 +124,21 @@ After the first startup, the game should launch normally.
 ## 🔥 FEATURES — VERSION 3.2
 
 ### First-Person Camera
-Fight from your boxer's point of view, looking through your own eyes.
-
-### Realistic Eye Swelling
-Your vision gets darker around the edges of the damaged eye as swelling increases. It clears again as the swelling heals.
-
+### Eye Swelling FX
 - Swelling matches the game's actual damage percentage.
 - Effects appear on the correct eye and the correct area, such as the brow or cheek.
 - Swelling can heal between rounds when your boxer is in the corner.
-
 ### Blood in Your Vision
-When your boxer gets cut, blood can appear in your vision. Getting hit while cut can also produce blood splashes on the screen.
-
-These blood effects are based on **your boxer's cuts**, not the opponent's.
-
-### Additional Damage Effects
-- Screen flashes when you get hit.
-- Random black spots now and then when you get hit in the head, fading out slowly.
-- Shadows from body shots.
-- Stun effects.
-- Damage effects during knockdown cameras.
-- Clean replays without these screen effects.
-
+These blood effects are based on **your boxer's cuts**.
 ### Glove Wiping
 Use the controller sticks to wipe blood away from your eyes.
-
 ### Photo Game Face Without EA Servers
-EA's online servers are offline, but you can still use your own photos with the included photo-face system.
-
-### Slightly Faster Swelling
-Eye swelling builds approximately **10% faster (×1.1)** for both boxers.
-
-Cuts, healing, and stamina otherwise use the original game's behavior.
-
----
-
-## 🧑 USE YOUR OWN FACE
-
-You can use your own photos to create a boxer face.
-
-### Required Files
-
-Place two photos in:
-
-`RPCS3\dev_hdd0\YSDV_FACE\`
-
-Both files must use the same name:
-
-- `NAME.jpg` — front-facing photo.
-- `NAME_side.jpg` — side-profile photo.
-
-Example:
-
-- `carlos.jpg`
-- `carlos_side.jpg`
-
-### Photo Requirements
-
-- **Size:** 512 × 512 pixels.
-- **Format:** `.jpg` only. Do not use `.jpeg` or `.png`.
-- **Maximum:** 4 faces in the folder.
-
-To resize a photo, open it in Windows Paint, select **Resize**, choose **Pixels**, set the width and height to 512, and save it as a JPEG.
-
-Move older faces into a separate subfolder if you need to make room for new ones.
-
-For more information, read `YSDV_FACE\README.txt`.
-
----
+EA's online servers are offline, but you can still use your own photos with the included photo-face system LOCALLY.
 
 ## ⚠️ KNOWN BUGS — WORK IN PROGRESS
 
 ### Opponent Has No Head / Camera Inside Your Head
-This can happen after a knockdown. The patch usually corrects itself.
-
+This can happen after a knockdown,
 **Quick fix:** Press **SELECT twice** to turn first-person mode off and back on.
 
 ### Boxer Model or Trunks May Shake
