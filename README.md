@@ -140,15 +140,8 @@ EA's online servers are offline, but you can still use your own photos with the 
 ### Opponent Has No Head / Camera Inside Your Head
 This can happen after a knockdown,
 **Quick fix:** Press **SELECT twice** to turn first-person mode off and back on.
-
 ### Boxer Model or Trunks May Shake
-The boxer model or trunks may occasionally shake during gameplay.
-
-### Platform Limitations
-Currently, this version is for **RPCS3 on PC only**.
-
 ---
-
 ## 🔧 TROUBLESHOOTING
 
 | Problem | Solution |
